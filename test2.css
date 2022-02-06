@@ -1,0 +1,131 @@
+body {
+    background-image: url("moroccan-flower.png");
+}
+
+a {
+    color: rgb(2, 29, 10);
+    font-weight: bold;
+    font-size: 8px;
+}
+
+p {
+    color: white;
+    font-family: "Arial";
+}
+
+h1 {
+    font-size: 20px;
+    font-family: "Passion One";
+    color: #ca1222;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: "Passion One";
+    color: #1aee6b;
+    font-weight: bold;
+}
+
+
+
+legend {
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+}
+
+label {
+    color: #bb1f2c;
+    font-size: 17px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 50px;
+}
+
+#Header {
+    border: solid 6px rgb(197, 27, 27);
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #1e11d8;
+}
+
+
+
+#account {
+    border: solid 8px black;
+    width: 850px;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+    padding: 15px;
+    background-color: #028a15;
+}
+
+#Personal_Info {
+    border: solid 8px black;
+    width: 850px;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+    padding: 15px;
+    background-color: #278847;
+}
+
+#LeftNav {
+    border: solid 8px black;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+    background-color: #1ca7d1;
+}
+
+#Avail{
+    border: solid 8px black;
+    width: 850px;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+    padding: 15px;
+    background-color: #8fc22f;
+}
+
+#PS{
+    border: solid 8px black;
+    width: 850px;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+    padding: 15px;
+    background-color: #3dc22b;
+}
+
+#Footer{
+    border: solid 8px rgb(194, 214, 9);
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #1f92df;
+}
